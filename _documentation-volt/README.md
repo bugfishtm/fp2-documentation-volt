@@ -10,8 +10,6 @@ This module includes the Volt Admin Dashboard Documentation as a module to be de
 <img src="./_images/preview.png" style="max-width: 500px;">
 
 
-
-
 ## Installation
 
 To integrate this Fast PHP Page Module into your website, you have two installation options:
@@ -33,6 +31,7 @@ To integrate this Fast PHP Page Module into your website, you have two installat
 - `.git`: Repository-related information.
 - `.github`: Sponsorship-related files.
 - `_releases`: Module installation files for administrative interfaces or manual installation.
+- `docs`: Small Documentation for Github Pages.
 - 'modulename': Module-specific folder for administrative installations, with installable releases available in the `_releases` folder.
 - `_images`: Images for the readme file and documentation.
 - `CONTRIBUTING.md`: Guidelines on contributing to this project.
